@@ -1,5 +1,5 @@
 # beautiful-switches
-Simple yet elegant HTML and CSS switches
+Simple yet elegant HTML and CSS switches for you websites, webapps, and electron apps
 
 See a preview at https://codepen.io/thepotato10-the-selector/pen/oNzyQdM
 
