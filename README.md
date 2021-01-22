@@ -9,8 +9,8 @@ See a preview at https://codepen.io/thepotato10-the-selector/pen/oNzyQdM
 1. Make the CSS in either the src/big.css file, src/medium.css file, or src/small.css available in your HTML, either by linking to the stylesheet or by adding it in a <style> tag
 2. Add the slider div with the following HTML code:
   ```
-  <div class='slider-div-container' id='my-switch'>
-    <div class='slider' id='my-switch-switch'></div>
+  <div class='switch-div-container' id='my-switch'>
+    <div class='switch' id='my-switch-switch'></div>
   </div>
   ```
 3. Add the following JS class to your HTML doc:
