@@ -1,13 +1,3 @@
-body {
-    margin: 0;
-    height: 100vh;
-    width: 100vw;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    background-color: #2B2D42;
-}
 .switch-div-container {
     width: 200px;
     height: 50px;
